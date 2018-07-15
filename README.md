@@ -1,5 +1,5 @@
 <!--lint disable no-heading-punctuation-->
-# Surfs Up!
+# Climate Analysis
 <!--lint enable no-heading-punctuation-->
 
 <img src='images/surfs-up.jpeg' />
